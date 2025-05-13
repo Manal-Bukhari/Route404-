@@ -12,7 +12,7 @@ public class HealthManager : MonoBehaviour
 
     [Header("Game Over UI")]
     [SerializeField] private GameObject gameOverUI;
-    [SerializeField] private string gameOverPanelName = "GameOverpanel"; // Name of the panel to initially hide
+    [SerializeField] private string gameOverPanelName = "GameOverPanel"; // Name of the panel to initially hide
     private GameObject gameOverPanel;
     [SerializeField] private TMP_Text scoreText; // Reference to your Score Text UI element (TextMeshPro)
     // If you are using the regular Unity UI.Text, use:
