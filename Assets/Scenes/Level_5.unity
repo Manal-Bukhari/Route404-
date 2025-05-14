@@ -127,6 +127,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -8058971973624678216, guid: 5934fcf434c23bc9e81f806636d264ba, type: 3}
+      propertyPath: currentRouter
+      value: 
+      objectReference: {fileID: 2140369422}
     - target: {fileID: 4554465678868305553, guid: 5934fcf434c23bc9e81f806636d264ba, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.14
